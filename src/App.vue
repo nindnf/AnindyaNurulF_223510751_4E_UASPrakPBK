@@ -170,7 +170,7 @@ body {
   transition: box-shadow 0.3s;
   max-width: 600px;
   width: 100%;
-  background-image: url('.\assets\bgWeather.jpg');
+  background-image: url('./assets/bgWeather.jpg');
   background-size: 95%;
   background-position: center;
   overflow: hidden;
